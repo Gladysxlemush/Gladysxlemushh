@@ -1,10 +1,10 @@
-# Hello, I'm Gladys
+ Hello, I'm Gladys
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gladys-l-lemus-73034b244/)
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student interested in software development, cybersecurity, and electronics.
 My journey in technology is fueled by my curiosity and dedication to learning and growing in the field.
 
-##Objective
+Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC)
 as a Tier 1 analyst.
 
@@ -20,7 +20,7 @@ as a Tier 1 analyst.
 
 
 
-## Certifications
+Certifications
 
 | Certification                                                                         |
 |---------------------------------------------------------------------------------------|
