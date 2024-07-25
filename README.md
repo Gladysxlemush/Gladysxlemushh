@@ -22,7 +22,7 @@ as a Tier 1 analyst.
 
 Certifications
 
-| Certification                                                                         |
+| Certifications                                                                        |
 |---------------------------------------------------------------------------------------|
 | [![Foundations of Cybersecurity](https://img.shields.io/badge/Foundations%20of%20Cybersecurity-Certified-blue)](https://coursera.org/share/83347fc0dc3c3ec0158273fa3b418f92) |
 | [![Tools of the Trade: Linux and SQL](https://img.shields.io/badge/Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL-Certified-blue)](https://coursera.org/share/cfff4bc3261f10a3295c839ede35d37f) |
