@@ -30,3 +30,10 @@ Certifications
 | [![Automate Cybersecurity Tasks with Python](https://img.shields.io/badge/Automate%20Cybersecurity%20Tasks%20with%20Python-Certified-blue)](https://coursera.org/share/f324cf46b30474b2cec1fb07791a86e3) |
 | [![Connect and Protect: Networks and Network Security](https://img.shields.io/badge/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-Certified-blue)](https://coursera.org/share/b3bbdb1dc9300fcfc2f9c3f6718e1360) |
 
+
+## 🔐 Cybersecurity Projects
+
+[![Vulnerability Scanner](https://img.shields.io/badge/Vulnerability%20Scanner-Python-purple)](https://github.com/gladysxlemushh/vulnerability-scanner)  
+  A Python script that scans a given IP address for open ports using the socket module. Great for demonstrating basic network reconnaissance and port discovery skills.
+
+
