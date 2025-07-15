@@ -33,7 +33,8 @@ Certifications
 
 ## 🔐 Cybersecurity Projects
 
-[![Vulnerability Scanner](https://img.shields.io/badge/Vulnerability%20Scanner-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/gladysxlemush/vulnerability-scanner)
+[![Vulnerability Scanner](https://img.shields.io/badge/-Vulnerability%20Scanner-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/gladysxlemush/vulnerability-scanner)
+
   A Python script that scans a given IP address for open ports using the socket module. Great for demonstrating basic network reconnaissance and port discovery skills.
   
 
