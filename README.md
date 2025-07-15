@@ -34,11 +34,10 @@ Certifications
 ## 🔐 Cybersecurity Projects
 
 [![Vulnerability Scanner](https://img.shields.io/static/v1?label=Vulnerability%20Scanner&message=Python%20Tool&color=3776AB&labelColor=302f2f&style=for-the-badge&logo=python&logoColor=white)](https://github.com/gladysxlemush/vulnerability-scanner)
-
   A Python script that scans a given IP address for open ports using the socket module. Great for demonstrating basic network reconnaissance and port discovery skills.
+  
 
 
 [![Secure Login System](https://img.shields.io/badge/-Secure%20Login%20System-4F5D95?style=for-the-badge&logo=php&logoColor=white&labelColor=302f2f)](https://github.com/gladysxlemush/secure-login-system)
-
 A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.  
 Implements user registration with **password hashing**, login with **session handling**, and proper access control.
