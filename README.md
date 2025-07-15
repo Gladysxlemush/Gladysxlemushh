@@ -33,10 +33,10 @@ Certifications
 
 ## 🔐 Cybersecurity Projects
 
-[![🛡️ Vulnerability Scanner](https://img.shields.io/badge/Python%20%7C%20Socket%20Scanner-Vulnerability%20Tool-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/gladysxlemush/vulnerability-scanner) 
+[![Vulnerability Scanner](https://img.shields.io/badge/Vulnerability%20Scanner-Python%20Tool-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/gladysxlemush/vulnerability-scanner)
   A Python script that scans a given IP address for open ports using the socket module. Great for demonstrating basic network reconnaissance and port discovery skills.
 
 
-[![🔐 Secure Login](https://img.shields.io/badge/PHP%20%2F%20Docker-Secure%20Login-blueviolet?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/gladysxlemush/secure-login-system)
+[![Secure Login System](https://img.shields.io/badge/Secure%20Login%20System-PHP%20%7C%20Docker-blueviolet?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/gladysxlemush/secure-login-system)
 A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.  
 Implements user registration with **password hashing**, login with **session handling**, and proper access control.
