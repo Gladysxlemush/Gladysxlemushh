@@ -37,3 +37,8 @@ Certifications
   A Python script that scans a given IP address for open ports using the socket module. Great for demonstrating basic network reconnaissance and port discovery skills.
 
 
+### 📌 [Secure Login System](https://github.com/gladysxlemush/secure-login-system)  
+![PHP](https://img.shields.io/badge/PHP-8.2-blueviolet?logo=php)
+![Docker](https://img.shields.io/badge/Dockerized-blue?logo=docker)  
+A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.  
+Implements user registration with **password hashing**, login with **session handling**, and proper access control.
