@@ -40,5 +40,6 @@ Certifications
 
 
 [![Secure Login System](https://img.shields.io/badge/-Secure%20Login%20System-4F5D95?style=for-the-badge&logo=php&logoColor=white&labelColor=302f2f)](https://github.com/gladysxlemush/secure-login-system)
+
 A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.  
 Implements user registration with **password hashing**, login with **session handling**, and proper access control.
