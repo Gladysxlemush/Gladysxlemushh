@@ -44,14 +44,4 @@ Certifications
 A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.  
 Implements user registration with **password hashing**, login with **session handling**, and proper access control.
 
-### 🖼️ Screenshots
-
-### 🔐 Registration Page  
-[![Register Page](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/register.png)](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/register.png)
-
-### 🔐 Login Page  
-[![Login Page](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/login.png)](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/login.png)
-
-### ✅ Successful Login / Dashboard  
-[![Dashboard Page](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/successful.login.png)](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/successful.login.png)
 
