@@ -44,7 +44,7 @@ Certifications
 A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.  
 Implements user registration with **password hashing**, login with **session handling**, and proper access control.
 
-![LOG FILE ANALYZER](https://img.shields.io/badge/LOG%20FILE%20ANALYZER-2b2d42?style=flat-square&logo=python&logoColor=white)
+[![Log File Analyzer](https://img.shields.io/badge/-Log%20File%20Analyzer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Gladysxlemush/log-file-analyzer)
 
 A Python tool that analyzes system log files (e.g., Apache or auth logs) to detect suspicious behavior such as brute-force login attempts. Highlights IPs with 5+ failed logins. Perfect for practicing log analysis, Python scripting, and threat detection.
 
