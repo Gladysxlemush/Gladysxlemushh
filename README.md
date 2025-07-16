@@ -46,11 +46,12 @@ Implements user registration with **password hashing**, login with **session han
 
 ### 🖼️ Screenshots
 
-#### 🔐 Registration Page
-![Register Page](./screenshots/regirster.png)
+### 🔐 Registration Page  
+[![Register Page](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/register.png)](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/register.png)
 
-#### 🔓 Login Page
-![Login Page](./screenshots/login.png)
+### 🔐 Login Page  
+[![Login Page](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/login.png)](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/login.png)
 
-#### ✅ Successful Login / Dashboard
-![Dashboard Page](./screenshots/successful.login.png)
+### ✅ Successful Login / Dashboard  
+[![Dashboard Page](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/successful.login.png)](https://raw.githubusercontent.com/Gladysxlemushh/secure-login-system/main/screenshots/successful.login.png)
+
