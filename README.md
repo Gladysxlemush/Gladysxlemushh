@@ -48,6 +48,6 @@ Implements user registration with **password hashing**, login with **session han
 
 #### 🔐 Registration Page
 <p align="center">
-  <img src="screenshots/register.png" alt="Register Page" width="400"/>
+  <img src="screenshots/regirster.png" alt="Register Page" width="400"/>
 </p>
 
