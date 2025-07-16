@@ -43,3 +43,8 @@ Certifications
 
 A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.  
 Implements user registration with **password hashing**, login with **session handling**, and proper access control.
+
+### 🖼️ Screenshots
+
+#### 🔐 Registration Page
+![Register Page](./screenshots/register.png)
