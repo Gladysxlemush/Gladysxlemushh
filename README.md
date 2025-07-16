@@ -45,3 +45,7 @@ A secure login system built with **PHP, MySQL, Docker**, and **phpMyAdmin**.
 Implements user registration with **password hashing**, login with **session handling**, and proper access control.
 
 
+![LOG FILE ANALYZER](https://img.shields.io/badge/LOG%20FILE%20ANALYZER-orange?style=flat-square)
+
+A Python tool that analyzes system log files (e.g., Apache or auth logs) to detect suspicious behavior such as brute-force login attempts. Highlights IPs with 5+ failed logins. Perfect for practicing log analysis, Python scripting, and threat detection.
+
