@@ -47,7 +47,10 @@ Implements user registration with **password hashing**, login with **session han
 ### 🖼️ Screenshots
 
 #### 🔐 Registration Page
-<p align="center">
-  <img src="screenshots/regirster.png" alt="Register Page" width="400"/>
-</p>
+![Register Page](./screenshots/regirster.png)
 
+#### 🔓 Login Page
+![Login Page](./screenshots/login.png)
+
+#### ✅ Successful Login / Dashboard
+![Dashboard Page](./screenshots/successful.login.png)
